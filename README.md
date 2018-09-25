@@ -1,1 +1,3 @@
 # UpdatedPortfolio
+
+My portfolio showcases my strengths as a developer. It shows off my UI/UX skills and the fact I can create fully functional apps. My projects use HTML, CSS, Javascript, JQuery, CSS frameworks (specifically Bootstrap and Materialize), Firebase, MySQL, and Heroku. I have choosen the projects that show off these skills best. My portfolio itself shows off my skills as well. Thanks for checkin it out! Will add some GIFs of my backend projects soon. 
